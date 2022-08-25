@@ -1,0 +1,15 @@
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/BackEndTest
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/BackEndTest.deps.json
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/BackEndTest.runtimeconfig.json
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/BackEndTest.dll
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/ref/BackEndTest.dll
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/bin/Debug/net6.0/BackEndTest.pdb
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.csproj.AssemblyReference.cache
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.AssemblyInfoInputs.cache
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.AssemblyInfo.cs
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.csproj.CoreCompileInputs.cache
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.dll
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/ref/BackEndTest.dll
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.pdb
+/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/obj/Debug/net6.0/BackEndTest.genruntimeconfig.cache

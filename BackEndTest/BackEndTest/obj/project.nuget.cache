@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LuH0S1lCAGWuFTGyDNSbSEMcbykIYqQGHsDNR/HjqRmXpeZMvuYOlTtKZ23dYdr/O9fEsWgMgjEDa3nOl16XA==",
+  "success": true,
+  "projectFilePath": "/home/azathoth/Hdd/dev/backend-test-yourself/BackEndTest/BackEndTest/BackEndTest.csproj",
+  "expectedPackageFiles": [
+    "/home/azathoth/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
